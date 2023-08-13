@@ -10,7 +10,7 @@ Though, you can switch in reverse or use both ESP8266 mini or Node MCU because t
   + Step 1: Place 2 board exactly 1 meter apart then press '1' to start the calibration.
   + Step 2: Place 2 board exactly 0.5 meter (50 cm) then press '1' to continue the calibration.
 + The result is not greate. Error can go up to over 70 % as the picture below. So basicly, this project is just for fun.
-
+![Result](pic_result.jpg)
 + These projects are made on VS Code and PlatformIO.
 
 # Youtube Channel
